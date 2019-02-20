@@ -1,0 +1,11 @@
+
+.example-card {
+  max-width: 400px;
+  max-height: 250px;
+}
+.example-header-image {
+  background-image: url('https://storage.cloud.google.com/camillefitness/CamilleTrainOutside.jpg');
+  background-size: cover;
+  max-width: 250px;
+  max-height: 150px;
+}

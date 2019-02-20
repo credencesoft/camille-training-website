@@ -1,0 +1,30 @@
+img,iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: goldenrod;
+    color: gainsboro;
+    text-align: center;
+    text-emphasis-color: white
+  }
+  .videoWrapper {
+    position: relative;
+    padding-bottom: 25px; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    align-content: center;
+  }
+  .videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-content: center;
+    border: 0pc;
+    
+  }
